@@ -1,0 +1,149 @@
+[
+    {
+        "id": "1",
+        "nombre": "Chaleco El After del After Mix",
+        "precio": 90000,
+        "stock": 1,
+        "imagen": "../img/shop1.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Chaleco UN PISO MÁS",
+        "precio": 82000,
+        "stock": 1,
+        "imagen": "../img/shop2.jpg"
+    },
+    {
+        "id": "3",
+        "nombre": "Buzo $ Negro",
+        "precio": 55000,
+        "stock": 13,
+        "imagen": "../img/shop3.jpg"
+    },
+    {
+        "id": "4",
+        "nombre": "Chaleco El After del After Naranja",
+        "precio": 90000,
+        "stock": 1,
+        "imagen": "../img/shop4.jpg"
+    },
+    {
+        "id": "5",
+        "nombre": "Buzo $ Blanco",
+        "precio": 50000,
+        "stock": 15,
+        "imagen": "../img/shop5.jpg"
+    },
+    {
+        "id": "6",
+        "nombre": "Remera Reflectiva YSY A Negra",
+        "precio": 25000,
+        "stock": 16,
+        "imagen": "../img/shop6.jpg"
+    },
+    {
+        "id": "7",
+        "nombre": "Remera Beboteo Crema",
+        "precio": 25000,
+        "stock": 17,
+        "imagen": "../img/shop7.jpg"
+    },
+    {
+        "id": "8",
+        "nombre": "Buzo $ Gris",
+        "precio": 55000,
+        "stock": 18,
+        "imagen": "../img/shop8.jpg"
+    },
+    {
+        "id": "9",
+        "nombre": "Buzo $ Rosa",
+        "precio": 55000,
+        "stock": 19,
+        "imagen": "../img/shop9.jpg"
+    },
+    {
+        "id": "10",
+        "nombre": "Buzo $ Naranja",
+        "precio": 55000,
+        "stock": 20,
+        "imagen": "../img/shop10.jpg"
+    },
+    {
+        "id": "11",
+        "nombre": "Remera Beboteo Negra",
+        "precio": 25000,
+        "stock": 21,
+        "imagen": "../img/shop11.jpg"
+    },
+    {
+        "id": "12",
+        "nombre": "Remera Radio Club Hits Crema",
+        "precio": 25000,
+        "stock": 22,
+        "imagen": "../img/shop12.jpg"
+    },
+    {
+        "id": "13",
+        "nombre": "Pantalón El After del After Mix",
+        "precio": 90000,
+        "stock": 1,
+        "imagen": "../img/shop13.jpg"
+    },
+    {
+        "id": "14",
+        "nombre": "Remera Reflectiva YSY A Naranja",
+        "precio": 25000,
+        "stock": 24,
+        "imagen": "../img/shop14.jpg"
+    },
+    {
+        "id": "15",
+        "nombre": "Remera Radio Club Hits Negra",
+        "precio": 25000,
+        "stock": 25,
+        "imagen": "../img/shop15.jpg"
+    },
+    {
+        "id": "16",
+        "nombre": "Buzo Sponsor Dios Rosa",
+        "precio": 55000,
+        "stock": 26,
+        "imagen": "../img/shop16.jpg"
+    },
+    {
+        "id": "17",
+        "nombre": "Pantalón UN PISO MÁS",
+        "precio": 82000,
+        "stock": 1,
+        "imagen": "../img/shop17.jpg"
+    },
+    {
+        "id": "18",
+        "nombre": "Remera Reflectiva YSY A Crema",
+        "precio": 25000,
+        "stock": 28,
+        "imagen": "../img/shop18.jpg"
+    },
+    {
+        "id": "19",
+        "nombre": "Buzo Sponsor Dios Negro",
+        "precio": 55000,
+        "stock": 29,
+        "imagen": "../img/shop19.jpg"
+    },
+    {
+        "id": "20",
+        "nombre": "Remera Radio Club Hits Gris",
+        "precio": 25000,
+        "stock": 30,
+        "imagen": "../img/shop20.jpg"
+    },
+    {
+        "id": "21",
+        "nombre": "Piluso Naranja",
+        "precio": 25000,
+        "stock": 30,
+        "imagen": "../img/shop21.jpg"
+    }
+]

@@ -1,0 +1,80 @@
+body {
+    font-family: 'Ubuntu', Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+a {
+    color: #ff6600;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.terminos-section {
+    padding: 3rem 2rem;
+    background-color: #fff;
+    color: #333;
+
+    .terminos-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem;
+        background: #fefefe;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+
+        h1 {
+            font-size: 2.5rem;
+            text-align: left;
+            margin-bottom: 2rem;
+            color: #000;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            margin-top: 1.5rem;
+            color: #000;
+        }
+
+        p {
+            font-size: 0.9rem;
+            color: #555;
+            line-height: 1.5;
+            margin-bottom: 1px;
+        }
+
+        ul {
+            margin: 1rem 0;
+            padding-left: 1.5rem;
+
+            li {
+                font-size: 0.9rem;
+                color: #555;
+                line-height: 1.5;
+                margin-bottom: 0.5rem;
+            }
+        }
+    }
+
+    .terminos-content {
+        h2 {
+            margin-top: 2rem;
+        }
+
+        p {
+            margin-bottom: 1rem;
+        }
+    }
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }

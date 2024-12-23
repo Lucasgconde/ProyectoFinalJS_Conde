@@ -1,0 +1,118 @@
+body {
+  font-family: "Ubuntu", Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
+
+a {
+  color: #ff6600;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.navbar {
+  margin-bottom: 20px;
+  padding: 0 20px;
+}
+
+.section-container {
+  padding: 3rem 2rem;
+  background-color: #fff;
+  color: #333;
+}
+.section-container .content-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  background: #fefefe;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.section-container .content-container h1 {
+  font-size: 2.5rem;
+  text-align: left;
+  margin-bottom: 2rem;
+  color: #000;
+}
+.section-container .content-container h2 {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  color: #000;
+}
+.section-container .content-container p {
+  font-size: 0.9rem;
+  color: #555;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+.section-container .content-container ul {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+.section-container .content-container ul li {
+  font-size: 0.9rem;
+  color: #555;
+  line-height: 1.5;
+  margin-bottom: 0.5rem;
+}
+
+.hero {
+  position: relative;
+  background-image: url("../img/fondo-sponsor.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.7);
+}
+.hero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  filter: blur(10px);
+  z-index: 1;
+}
+.hero h1 {
+  position: relative;
+  font-size: 2.5rem;
+  font-weight: bold;
+  z-index: 2;
+}
+
+.main-section {
+  padding: 3rem 2rem;
+  background-color: #ffffff;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.main-section p {
+  text-align: justify;
+  line-height: 1.6;
+  font-size: 1.1rem;
+  color: #6c757d;
+}
+.main-section h2 {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/*# sourceMappingURL=styles-sponsor.css.map */

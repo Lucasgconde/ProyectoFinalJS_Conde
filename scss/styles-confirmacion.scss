@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+body {
+  font-family: 'Ubuntu', Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.65;
+  word-break: break-word;
+  font-kerning: auto;
+  font-variant: normal;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.confirmacion {
+  text-align: center;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  margin: 50px auto;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+}
+
+
+.confirmacion h1 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.confirmacion p {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.confirmacion p span {
+  font-weight: bold;
+  color: #000;
+}
+
+.confirmacion a {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #f97316;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1.4rem;
+  transition: background-color 0.3s ease;
+  margin-top: 10px;
+}
+
+.confirmacion a:hover {
+  background-color: #ea580c;
+}
+
+form {
+  margin: 0 auto !important;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
