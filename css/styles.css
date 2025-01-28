@@ -1,0 +1,99 @@
+body {
+  font-family: "Ubuntu", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 0;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+}
+.navbar .nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+.navbar .nav-links .nav-link {
+  text-decoration: none;
+  font-weight: bold;
+  color: #333;
+}
+.navbar .nav-links .nav-link:hover {
+  color: #f97316;
+}
+
+.search-cart {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.search-cart input {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.hero {
+  position: relative;
+}
+.hero .hero-image {
+  width: 100%;
+  height: auto;
+}
+
+.product-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+.product-grid .product-card {
+  width: 300px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  overflow: hidden;
+  text-align: center;
+}
+.product-grid .product-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+.product-grid .product-card h3 {
+  margin: 10px 0;
+  font-size: 1.2rem;
+}
+.product-grid .product-card p {
+  color: #555;
+}
+.product-grid .product-card .btn {
+  background-color: #f97316;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+.product-grid .product-card .btn:hover {
+  background-color: #d9540e;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/*# sourceMappingURL=styles.css.map */
