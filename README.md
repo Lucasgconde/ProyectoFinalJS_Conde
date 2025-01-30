@@ -38,3 +38,5 @@ Las imágenes utilizadas en la aplicación se encuentran en `img/` e incluyen lo
 ### Dependencias y Configuración
 - `package.json`: Lista de dependencias y configuración del proyecto.
 - `package-lock.json`: Control de versiones específicas de dependencias.
+
+🚀 *¡Gracias por visitar este proyecto!*
